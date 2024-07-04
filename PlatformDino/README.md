@@ -15,3 +15,4 @@ There are Player Idle and Running animations.
 
 ### In-game image
 
+![image](https://github.com/Ngonzalez693/UnityProjects/assets/114617008/fb7e9ded-693b-4494-8923-5841ab5b1af2)
