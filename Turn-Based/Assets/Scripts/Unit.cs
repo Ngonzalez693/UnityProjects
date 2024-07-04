@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Unit : MonoBehaviour
 {
+    public Animator animator;
     
     public string unitName;
     public int unitLevel;

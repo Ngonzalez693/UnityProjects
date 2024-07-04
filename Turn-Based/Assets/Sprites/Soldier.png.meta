@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Soldier_0
+      name: SoldierIdle1
       rect:
         serializedVersion: 2
         x: 0
@@ -131,7 +131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_1
+      name: SoldierIdle2
       rect:
         serializedVersion: 2
         x: 100
@@ -152,7 +152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_2
+      name: SoldierIdle3
       rect:
         serializedVersion: 2
         x: 200
@@ -173,7 +173,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_3
+      name: SoldierIdle4
       rect:
         serializedVersion: 2
         x: 300
@@ -194,7 +194,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_4
+      name: SoldierIdle5
       rect:
         serializedVersion: 2
         x: 400
@@ -215,7 +215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_5
+      name: SoldierIdle6
       rect:
         serializedVersion: 2
         x: 500
@@ -845,7 +845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_35
+      name: SoldierHurt1
       rect:
         serializedVersion: 2
         x: 0
@@ -866,7 +866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_36
+      name: SoldierHurt2
       rect:
         serializedVersion: 2
         x: 100
@@ -887,7 +887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_37
+      name: SoldierHurt3
       rect:
         serializedVersion: 2
         x: 200
@@ -908,7 +908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_38
+      name: SoldierHurt4
       rect:
         serializedVersion: 2
         x: 300
@@ -929,7 +929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_39
+      name: SoldierDeath1
       rect:
         serializedVersion: 2
         x: 0
@@ -950,7 +950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_40
+      name: SoldierDeath2
       rect:
         serializedVersion: 2
         x: 100
@@ -971,7 +971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_41
+      name: SoldierDeath3
       rect:
         serializedVersion: 2
         x: 200
@@ -992,7 +992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_42
+      name: SoldierDeath4
       rect:
         serializedVersion: 2
         x: 300
@@ -1023,8 +1023,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Soldier_0: -1399802055
-      Soldier_1: -358502087
+      SoldierDeath1: 1349244330
+      SoldierDeath2: 454408533
+      SoldierDeath3: -2047795472
+      SoldierDeath4: 870783754
+      SoldierHurt1: 1492894070
+      SoldierHurt2: 324952012
+      SoldierHurt3: 1959983348
+      SoldierHurt4: -700463253
+      SoldierIdle1: -1399802055
+      SoldierIdle2: -358502087
+      SoldierIdle3: 370346315
+      SoldierIdle4: -1673688903
+      SoldierIdle5: 896996595
+      SoldierIdle6: -78306978
       Soldier_10: -208875736
       Soldier_11: 210477640
       Soldier_12: 1640635658
@@ -1035,7 +1047,6 @@ TextureImporter:
       Soldier_17: -1534802143
       Soldier_18: -1587641397
       Soldier_19: 1968502923
-      Soldier_2: 370346315
       Soldier_20: -158600560
       Soldier_21: -1478617516
       Soldier_22: 1196736746
@@ -1046,22 +1057,11 @@ TextureImporter:
       Soldier_27: -1253953996
       Soldier_28: -933975239
       Soldier_29: -1147864190
-      Soldier_3: -1673688903
       Soldier_30: -183775486
       Soldier_31: 229993829
       Soldier_32: -1708320545
       Soldier_33: -1501444608
       Soldier_34: 1864200140
-      Soldier_35: 1492894070
-      Soldier_36: 324952012
-      Soldier_37: 1959983348
-      Soldier_38: -700463253
-      Soldier_39: 1349244330
-      Soldier_4: 896996595
-      Soldier_40: 454408533
-      Soldier_41: -2047795472
-      Soldier_42: 870783754
-      Soldier_5: -78306978
       Soldier_6: -52967126
       Soldier_7: -1747827563
       Soldier_8: 278941128

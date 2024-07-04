@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Orc_0
+      name: OrcIdle1
       rect:
         serializedVersion: 2
         x: 0
@@ -118,7 +118,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -131,7 +131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_1
+      name: OrcIdle2
       rect:
         serializedVersion: 2
         x: 100
@@ -139,7 +139,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -152,7 +152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_2
+      name: OrcIdle3
       rect:
         serializedVersion: 2
         x: 200
@@ -160,7 +160,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,7 +173,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_3
+      name: OrcIdle4
       rect:
         serializedVersion: 2
         x: 300
@@ -181,7 +181,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,7 +194,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_4
+      name: OrcIdle5
       rect:
         serializedVersion: 2
         x: 400
@@ -202,7 +202,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,7 +215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_5
+      name: OrcIdle6
       rect:
         serializedVersion: 2
         x: 500
@@ -223,7 +223,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,7 +236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_6
+      name: OrcWalk1
       rect:
         serializedVersion: 2
         x: 0
@@ -244,7 +244,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_7
+      name: OrcWalk2
       rect:
         serializedVersion: 2
         x: 100
@@ -265,7 +265,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,7 +278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_8
+      name: OrcWalk3
       rect:
         serializedVersion: 2
         x: 200
@@ -286,7 +286,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -299,7 +299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_9
+      name: OrcWalk4
       rect:
         serializedVersion: 2
         x: 300
@@ -307,7 +307,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_10
+      name: OrcWalk5
       rect:
         serializedVersion: 2
         x: 400
@@ -328,7 +328,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_11
+      name: OrcWalk6
       rect:
         serializedVersion: 2
         x: 500
@@ -349,7 +349,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_12
+      name: OrcWalk7
       rect:
         serializedVersion: 2
         x: 600
@@ -370,7 +370,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -383,7 +383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_13
+      name: OrcWalk8
       rect:
         serializedVersion: 2
         x: 700
@@ -391,7 +391,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -404,7 +404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_14
+      name: Orc1stAttack1
       rect:
         serializedVersion: 2
         x: 0
@@ -412,7 +412,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -425,7 +425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_15
+      name: Orc1stAttack2
       rect:
         serializedVersion: 2
         x: 100
@@ -433,7 +433,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -446,7 +446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_16
+      name: Orc1stAttack3
       rect:
         serializedVersion: 2
         x: 200
@@ -454,7 +454,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -467,7 +467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_17
+      name: Orc1stAttack4
       rect:
         serializedVersion: 2
         x: 300
@@ -475,7 +475,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -488,7 +488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_18
+      name: Orc1stAttack5
       rect:
         serializedVersion: 2
         x: 400
@@ -496,7 +496,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -509,7 +509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_19
+      name: Orc1stAttack6
       rect:
         serializedVersion: 2
         x: 500
@@ -517,7 +517,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -530,7 +530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_20
+      name: Orc2ndAttack1
       rect:
         serializedVersion: 2
         x: 0
@@ -538,7 +538,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -551,7 +551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_21
+      name: Orc2ndAttack2
       rect:
         serializedVersion: 2
         x: 100
@@ -559,7 +559,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -572,7 +572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_22
+      name: Orc2ndAttack3
       rect:
         serializedVersion: 2
         x: 200
@@ -580,7 +580,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -593,7 +593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_23
+      name: Orc2ndAttack4
       rect:
         serializedVersion: 2
         x: 300
@@ -601,7 +601,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -614,7 +614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_24
+      name: Orc2ndAttack5
       rect:
         serializedVersion: 2
         x: 400
@@ -622,7 +622,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -635,7 +635,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_25
+      name: Orc2ndAttack6
       rect:
         serializedVersion: 2
         x: 500
@@ -643,7 +643,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -656,7 +656,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_26
+      name: OrcHurt1
       rect:
         serializedVersion: 2
         x: 0
@@ -664,7 +664,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -677,7 +677,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_27
+      name: OrcHurt2
       rect:
         serializedVersion: 2
         x: 100
@@ -685,7 +685,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -698,7 +698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_28
+      name: OrcHurt3
       rect:
         serializedVersion: 2
         x: 200
@@ -706,7 +706,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -719,7 +719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_29
+      name: OrcHurt4
       rect:
         serializedVersion: 2
         x: 300
@@ -727,7 +727,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -740,7 +740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_30
+      name: OrcDeath1
       rect:
         serializedVersion: 2
         x: 0
@@ -748,7 +748,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -761,7 +761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_31
+      name: OrcDeath2
       rect:
         serializedVersion: 2
         x: 100
@@ -769,7 +769,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -782,7 +782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_32
+      name: OrcDeath3
       rect:
         serializedVersion: 2
         x: 200
@@ -790,7 +790,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -803,7 +803,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_33
+      name: OrcDeath4
       rect:
         serializedVersion: 2
         x: 300
@@ -811,7 +811,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -834,40 +834,40 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Orc_0: 2002003305
-      Orc_1: 1217192041
-      Orc_10: 1112104790
-      Orc_11: 655512565
-      Orc_12: -2146271363
-      Orc_13: 778506700
-      Orc_14: -2122928608
-      Orc_15: -1883932136
-      Orc_16: -219809604
-      Orc_17: -777707506
-      Orc_18: -1653522323
-      Orc_19: -1980732494
-      Orc_2: 1871868566
-      Orc_20: 745320256
-      Orc_21: 829854354
-      Orc_22: -561475379
-      Orc_23: 1903052074
-      Orc_24: 377939339
-      Orc_25: -1221066922
-      Orc_26: 869610664
-      Orc_27: -1730206507
-      Orc_28: -1389713524
-      Orc_29: 2111877673
-      Orc_3: 1027252488
-      Orc_30: 1902137617
-      Orc_31: 1991935202
-      Orc_32: 1852538078
-      Orc_33: -562730204
-      Orc_4: 1491142123
-      Orc_5: -1511414847
-      Orc_6: -1438836650
-      Orc_7: -209997416
-      Orc_8: 1071137617
-      Orc_9: -1084524994
+      Orc1stAttack1: -2122928608
+      Orc1stAttack2: -1883932136
+      Orc1stAttack3: -219809604
+      Orc1stAttack4: -777707506
+      Orc1stAttack5: -1653522323
+      Orc1stAttack6: -1980732494
+      Orc2ndAttack1: 745320256
+      Orc2ndAttack2: 829854354
+      Orc2ndAttack3: -561475379
+      Orc2ndAttack4: 1903052074
+      Orc2ndAttack5: 377939339
+      Orc2ndAttack6: -1221066922
+      OrcDeath1: 1902137617
+      OrcDeath2: 1991935202
+      OrcDeath3: 1852538078
+      OrcDeath4: -562730204
+      OrcHurt1: 869610664
+      OrcHurt2: -1730206507
+      OrcHurt3: -1389713524
+      OrcHurt4: 2111877673
+      OrcIdle1: 2002003305
+      OrcIdle2: 1217192041
+      OrcIdle3: 1871868566
+      OrcIdle4: 1027252488
+      OrcIdle5: 1491142123
+      OrcIdle6: -1511414847
+      OrcWalk1: -1438836650
+      OrcWalk2: -209997416
+      OrcWalk3: 1071137617
+      OrcWalk4: -1084524994
+      OrcWalk5: 1112104790
+      OrcWalk6: 655512565
+      OrcWalk7: -2146271363
+      OrcWalk8: 778506700
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

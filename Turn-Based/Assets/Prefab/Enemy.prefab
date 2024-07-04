@@ -10,8 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 7735013365702305482}
   - component: {fileID: 4490361042717896457}
+  - component: {fileID: 8774219856830812744}
   m_Layer: 0
-  m_Name: Orc_0
+  m_Name: Orc
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -129,6 +130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb4be4637f1d91041ae1a84fc73bf792, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 8774219856830812744}
   unitName: Orc
   unitLevel: 12
   damage: 8
@@ -144,7 +146,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1655577411218570759, guid: 4ad64568ef16874418a75a088411c49a, type: 3}
       propertyPath: m_Name
-      value: Orc_0
+      value: Orc
       objectReference: {fileID: 0}
     - target: {fileID: 3545241011300572572, guid: 4ad64568ef16874418a75a088411c49a, type: 3}
       propertyPath: m_LocalScale.x
@@ -197,5 +199,29 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1655577411218570759, guid: 4ad64568ef16874418a75a088411c49a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8774219856830812744}
   m_SourcePrefab: {fileID: 100100000, guid: 4ad64568ef16874418a75a088411c49a, type: 3}
+--- !u!95 &8774219856830812744
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2751815959761764994}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: dff325ddc90569b43a3bc9b83bf104e0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
