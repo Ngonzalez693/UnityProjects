@@ -236,7 +236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_6
+      name: SoldierWalk1
       rect:
         serializedVersion: 2
         x: 0
@@ -257,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_7
+      name: SoldierWalk2
       rect:
         serializedVersion: 2
         x: 100
@@ -278,7 +278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_8
+      name: SoldierWalk3
       rect:
         serializedVersion: 2
         x: 200
@@ -299,7 +299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_9
+      name: SoldierWalk4
       rect:
         serializedVersion: 2
         x: 300
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_10
+      name: SoldierWalk5
       rect:
         serializedVersion: 2
         x: 400
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_11
+      name: SoldierWalk6
       rect:
         serializedVersion: 2
         x: 500
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_12
+      name: SoldierWalk7
       rect:
         serializedVersion: 2
         x: 600
@@ -383,7 +383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_13
+      name: SoldierWalk8
       rect:
         serializedVersion: 2
         x: 700
@@ -404,7 +404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_14
+      name: Soldier1stAttack1
       rect:
         serializedVersion: 2
         x: 0
@@ -425,7 +425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_15
+      name: Soldier1stAttack2
       rect:
         serializedVersion: 2
         x: 100
@@ -446,7 +446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_16
+      name: Soldier1stAttack3
       rect:
         serializedVersion: 2
         x: 200
@@ -467,7 +467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_17
+      name: Soldier1stAttack4
       rect:
         serializedVersion: 2
         x: 300
@@ -488,7 +488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_18
+      name: Soldier1stAttack5
       rect:
         serializedVersion: 2
         x: 400
@@ -509,7 +509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_19
+      name: Soldier1stAttack6
       rect:
         serializedVersion: 2
         x: 500
@@ -530,7 +530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_20
+      name: Soldier2ndAttack1
       rect:
         serializedVersion: 2
         x: 0
@@ -551,7 +551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_21
+      name: Soldier2ndAttack2
       rect:
         serializedVersion: 2
         x: 100
@@ -572,7 +572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_22
+      name: Soldier2ndAttack3
       rect:
         serializedVersion: 2
         x: 200
@@ -593,7 +593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_23
+      name: Soldier2ndAttack4
       rect:
         serializedVersion: 2
         x: 300
@@ -614,7 +614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_24
+      name: Soldier2ndAttack5
       rect:
         serializedVersion: 2
         x: 400
@@ -635,7 +635,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_25
+      name: Soldier2ndAttack6
       rect:
         serializedVersion: 2
         x: 500
@@ -656,7 +656,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_26
+      name: SoldierBowAttack1
       rect:
         serializedVersion: 2
         x: 0
@@ -677,7 +677,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_27
+      name: SoldierBowAttack2
       rect:
         serializedVersion: 2
         x: 100
@@ -698,7 +698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_28
+      name: SoldierBowAttack3
       rect:
         serializedVersion: 2
         x: 200
@@ -719,7 +719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_29
+      name: SoldierBowAttack4
       rect:
         serializedVersion: 2
         x: 300
@@ -740,7 +740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_30
+      name: SoldierBowAttack5
       rect:
         serializedVersion: 2
         x: 400
@@ -761,7 +761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_31
+      name: SoldierBowAttack6
       rect:
         serializedVersion: 2
         x: 500
@@ -782,7 +782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_32
+      name: SoldierBowAttack7
       rect:
         serializedVersion: 2
         x: 600
@@ -803,7 +803,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_33
+      name: SoldierBowAttack8
       rect:
         serializedVersion: 2
         x: 700
@@ -824,7 +824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier_34
+      name: SoldierBowAttack9
       rect:
         serializedVersion: 2
         x: 800
@@ -1023,6 +1023,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Soldier1stAttack1: 285791551
+      Soldier1stAttack2: -1204949309
+      Soldier1stAttack3: -1562090586
+      Soldier1stAttack4: -1534802143
+      Soldier1stAttack5: -1587641397
+      Soldier1stAttack6: 1968502923
+      Soldier2ndAttack1: -158600560
+      Soldier2ndAttack2: -1478617516
+      Soldier2ndAttack3: 1196736746
+      Soldier2ndAttack4: 640629947
+      Soldier2ndAttack5: -314902892
+      Soldier2ndAttack6: 834456287
+      SoldierBowAttack1: -806314950
+      SoldierBowAttack2: -1253953996
+      SoldierBowAttack3: -933975239
+      SoldierBowAttack4: -1147864190
+      SoldierBowAttack5: -183775486
+      SoldierBowAttack6: 229993829
+      SoldierBowAttack7: -1708320545
+      SoldierBowAttack8: -1501444608
+      SoldierBowAttack9: 1864200140
       SoldierDeath1: 1349244330
       SoldierDeath2: 454408533
       SoldierDeath3: -2047795472
@@ -1037,35 +1058,14 @@ TextureImporter:
       SoldierIdle4: -1673688903
       SoldierIdle5: 896996595
       SoldierIdle6: -78306978
-      Soldier_10: -208875736
-      Soldier_11: 210477640
-      Soldier_12: 1640635658
-      Soldier_13: -956830749
-      Soldier_14: 285791551
-      Soldier_15: -1204949309
-      Soldier_16: -1562090586
-      Soldier_17: -1534802143
-      Soldier_18: -1587641397
-      Soldier_19: 1968502923
-      Soldier_20: -158600560
-      Soldier_21: -1478617516
-      Soldier_22: 1196736746
-      Soldier_23: 640629947
-      Soldier_24: -314902892
-      Soldier_25: 834456287
-      Soldier_26: -806314950
-      Soldier_27: -1253953996
-      Soldier_28: -933975239
-      Soldier_29: -1147864190
-      Soldier_30: -183775486
-      Soldier_31: 229993829
-      Soldier_32: -1708320545
-      Soldier_33: -1501444608
-      Soldier_34: 1864200140
-      Soldier_6: -52967126
-      Soldier_7: -1747827563
-      Soldier_8: 278941128
-      Soldier_9: -985857694
+      SoldierWalk1: -52967126
+      SoldierWalk2: -1747827563
+      SoldierWalk3: 278941128
+      SoldierWalk4: -985857694
+      SoldierWalk5: -208875736
+      SoldierWalk6: 210477640
+      SoldierWalk7: 1640635658
+      SoldierWalk8: -956830749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
