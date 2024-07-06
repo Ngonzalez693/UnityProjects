@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Vegetation
   - 
   - 
   - 
@@ -49,4 +49,7 @@ TagManager:
     locked: 0
   - name: Vegetation
     uniqueID: 1488744095
+    locked: 0
+  - name: Player
+    uniqueID: 2546998351
     locked: 0
