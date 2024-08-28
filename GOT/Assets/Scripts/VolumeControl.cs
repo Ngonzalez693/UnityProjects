@@ -25,9 +25,9 @@ public class VolumeControl : MonoBehaviour
         AudioListener.volume = volume;
         PlayerPrefs.SetFloat("Volume", volume);
 
-        if (AudioManager.Instance != null)
+        if (AudioManager.instance != null)
         {
-            AudioManager.Instance.SetVolume(volume);
+            AudioManager.instance.SetVolume(volume);
         }
     }
 }

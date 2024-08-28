@@ -7,6 +7,7 @@ public class Enemy : MonoBehaviour
 {
 
     public Animator animator;
+    public LevelSystem levelSystem;
 
     public int maxHealth = 100;
     int currentHealth;
@@ -33,5 +34,7 @@ public class Enemy : MonoBehaviour
 
         GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
+
+        levelSystem.ShowEnemyDefeatedMessage();
     }
 }

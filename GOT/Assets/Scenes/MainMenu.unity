@@ -868,7 +868,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 6f4818512e6b86548af7e8734d162663, type: 3}
+  m_Texture: {fileID: 2800000, guid: 006b19ceaad1ac545bd0cacadc09b481, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1358,7 +1358,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1169049497}
-  - component: {fileID: 1169049498}
+  - component: {fileID: 1169049500}
   - component: {fileID: 1169049499}
   m_Layer: 0
   m_Name: Background Music
@@ -1382,19 +1382,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1169049498
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1169049496}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c042b28989480ea40b5d02eeff021fb5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  backgroundMusic: {fileID: 8300000, guid: 07173c930b31a494abaa8e75e8fcf065, type: 3}
 --- !u!82 &1169049499
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1491,6 +1478,23 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1169049500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169049496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c042b28989480ea40b5d02eeff021fb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  backgroundMusicSource: {fileID: 1169049499}
+  menuMusic: {fileID: 8300000, guid: 07173c930b31a494abaa8e75e8fcf065, type: 3}
+  level1Music: {fileID: 8300000, guid: 4aa34c7c7a6e2d54699201db7b29b8ee, type: 3}
+  level2Music: {fileID: 8300000, guid: 27bb744e7b2f7b741b354096df393281, type: 3}
+  level3Music: {fileID: 8300000, guid: a92e6e8508cf2314d88c18300a1d8756, type: 3}
 --- !u!1 &1245126685
 GameObject:
   m_ObjectHideFlags: 0
